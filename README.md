@@ -19,7 +19,7 @@ This is a fullstack web application that simulates a real-time trading platform 
 
 - Wallet and Virtual Balance Management
 
-- Paper Trading with Real-time or Mock Market Data
+- Paper Trading with Real-time  Market Data
 
 - Order Placement (Buy/Sell)
 
